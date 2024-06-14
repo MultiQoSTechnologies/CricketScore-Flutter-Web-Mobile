@@ -53,4 +53,10 @@
 ### For Android
 - flutter run -d android
 
+For more details, visit [MultiQoS.](https://multiqos.com/flutter-app-development/)
+
+Contact us for collaboration or support:
+
+Email: biz@multiqos.com
+
 
